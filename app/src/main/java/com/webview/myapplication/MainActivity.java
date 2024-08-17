@@ -49,7 +49,7 @@ public class MainActivity extends Activity {
         });
 
         if (isNetworkAvailable()) {
-            mWebView.loadUrl("https://github.com/bishwassagar");
+            mWebView.loadUrl("https://videos.pornstar.monster/");
         } else {
             mWebView.loadUrl("file:///android_asset/offline.html");
         }
